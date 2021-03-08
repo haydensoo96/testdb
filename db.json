@@ -1,0 +1,23 @@
+{
+    "receipt": {
+        "userId": "1",
+        "name": "hayden",
+        "item": [
+            {
+                "name": "milk",
+                "price": 2.00,
+                "quantity": 3
+            },
+            {
+                "name": "milk",
+                "price": 2.00,
+                "quantity": 3
+            },
+            {
+                "name": "milk",
+                "price": 2.00,
+                "quantity": 3
+            }
+        ]
+    }
+}
